@@ -1,5 +1,3 @@
-Controller.js
-
 import "./styles/style.css";
 import * as weather from "./weather";
 import * as view from "./view";
