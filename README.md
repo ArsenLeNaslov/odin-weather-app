@@ -11,16 +11,16 @@ Live preview: [Odin's Weather Forecast App](https://arsenlenaslov.github.io/odin
 - A city name can be entered in the Search bar > click Search button or Enter
 - Weather GIFs / Icons adapt to the city's current weather conditions
 - The website shows:
-- Current weather conditions
-- Current temperature
-- Date, Sunrise & Sunset times
-- Hourly weather forecast
-- 10 Days weahter forecast
-- Current humidity %
-- Precipitations in mm
-- Wind speed & direction with a Compass
-- UV index
-- Pressure
+ - Current weather conditions
+ - Current temperature
+ - Date, Sunrise & Sunset times
+ - Hourly weather forecast
+ - 10 Days weahter forecast
+ - Current humidity %
+ - Precipitations in mm
+ - Wind speed & direction with a Compass
+ - UV index
+ - Pressure
 
 ## Technologies
 - Visual Crossing Weather External API for the weather data
