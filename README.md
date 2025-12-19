@@ -35,7 +35,7 @@ Live preview: [Odin's Weather Forecast App](https://arsenlenaslov.github.io/odin
 - Created by [ArsenLeNaslov](https://github.com/ArsenLeNaslov) for [The Odin Project](https://www.theodinproject.com/) 🎴
 - Background video ["Nebula Space" by Olenchi](https://pixabay.com/videos/nebula-space-universe-galaxy-stars-215697/), licensed for personal use.
 - Favicon fron [Flaticon](https://www.flaticon.com/), creative common license [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/)
-- [ZenDots](https://www.cufonfonts.com/font/zen-dots) font is free to use under the [Open Font License](https://openfontlicense.org/)
+- [Zen Dots](https://www.cufonfonts.com/font/zen-dots) font is free to use under the [Open Font License](https://openfontlicense.org/)
 
 ## License
 Open source: feel free to fork, modify, and learn!
