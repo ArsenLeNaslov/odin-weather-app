@@ -1,5 +1,6 @@
 # Odin's Weather Forecast App
-A deep space nebula-themed Weather Forecast Application which allows users to search for weather information by location, by using Visual Crossing Weather API. The website UI adapts based on the location's current weather data.
+A deep space nebula-themed Weather Forecast Application which allows users to choose and search for weather information by location, by using Visual Crossing Weather API. 
+The website UI adapts based on the location's current weather data.
 
 Referencing Odin's Project: [Weather App](https://www.theodinproject.com/lessons/node-path-javascript-weather-app)
 
@@ -10,17 +11,17 @@ Live preview: [Odin's Weather Forecast App](https://arsenlenaslov.github.io/odin
 ## Features
 - A city name can be entered in the Search bar > click Search button or Enter
 - Weather GIFs / Icons adapt to the city's current weather conditions
-- **The website shows**:
+- The website shows:
   - Current weather conditions
- -- Current temperature
- - Date, Sunrise & Sunset times
- - Hourly weather forecast
- - 10 Days weahter forecast
- - Current humidity %
- - Precipitations in mm
- - Wind speed & direction with a Compass
- - UV index
- - Pressure
+  - Current temperature
+  - Date, Sunrise & Sunset times
+  - Hourly weather forecast
+  - 10 Days weahter forecast
+  - Current humidity %
+  - Precipitations in mm
+  - Wind speed & direction with a Compass
+  - UV index
+  - Pressure
 
 ## Technologies
 - Visual Crossing Weather External API for the weather data
